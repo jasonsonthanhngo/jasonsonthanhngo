@@ -4,7 +4,7 @@ Welcome to my GitHub profile, where you can find a mix of personal projects, ope
 
 ## 🔗 Portfolio Website
 
-Explore more of my work on my <a href="https://jasonngo-portfolio.vercel.app/" target="_blank">Portfolio Website</a> !
+Explore more of my work on my <a href="https://jasonngo-portfolio.vercel.app/" >Portfolio Website</a> !
 
 
 ## 🌟 Featured Project
