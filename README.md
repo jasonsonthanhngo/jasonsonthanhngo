@@ -1,8 +1,17 @@
-# 👋 Hi, I’m Jason
-I'm a Software Engineer located in Orange County, CA. 
+# 👋 Hi, I’m Jason.
+I'm a Software Engineer located in Orange County, CA.  
 Welcome to my GitHub profile, where you can find a mix of personal projects, open-source contributions, and a glimpse into my coding journey. 
 
-## 👀 I’m interested in working towards creating software that makes life easier and more meaningful.
+## 🔗 Portfolio Website
+
+Explore more of my work on my [Portfolio Website](https://jasonngo-portfolio.vercel.app/)!
+
+## 🌟 Featured Project
+### 👀 I’m interested in working towards creating software that makes life easier and more meaningful.
+
+* [Threads App](https://github.com/jasonsonthanhngo/threads_app): A social media app project that showcases my understanding of NextJS, MongoDB, and Clerk.
+* [AI Image Generator App](https://github.com/jasonsonthanhngo/AI_Image_Generator): An AI Image Generator App built with MERN stack, OpenAI's API, cloudinary
+
 
 ## 🌱 My Learning Focus
 
@@ -14,8 +23,10 @@ I'm currently diving deep into:
 - **MongoDB:** Learning to manage and query data effectively.
 
 ## 📫 How to reach me 
-- LinkedIn: [Jason (Son Thanh) Ngo](https://www.linkedin.com/in/jasonsonthanhngo/){:target="_blank"}
-- Email: [jasonsonthanhngo@gmail.com](mailto:jasonsonthanhngo@gmail.com){:target="_blank"}
+### Connect with me through:
+* <a href="https://www.linkedin.com/in/jasonsonthanhngo/" target="_blank">LinkedIn</a>  
+* <a href="mailto:jasonsonthanhngo@gmail.com" target="_blank">Email</a>
+
 
 <!---
 jasonsonthanhngo/jasonsonthanhngo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
