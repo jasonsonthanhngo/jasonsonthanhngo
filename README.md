@@ -19,7 +19,7 @@ Explore more of my work on my <a href="https://jasonngo-portfolio.vercel.app/" >
 I'm currently diving deep into:
 
 - **React:** Building dynamic user interfaces and interactive components.
-- **Tailwindcss** Creating stylish and responsive designs
+- **Tailwindcss:** Creating stylish and responsive designs
 - **Next.js:** Crafting server-rendered React applications with ease.
 - **Node.js:** Exploring the backend realm with JavaScript.
 - **MongoDB:** Learning to manage and query data effectively.
