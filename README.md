@@ -14,8 +14,8 @@ I'm currently diving deep into:
 - **MongoDB:** Learning to manage and query data effectively.
 
 ## 📫 How to reach me 
-- LinkedIn: [Jason (Son Thanh) Ngo](https://www.linkedin.com/in/jasonsonthanhngo/)
-- Email: [jasonsonthanhngo@gmail.com](mailto:jasonsonthanhngo@gmail.com)
+- LinkedIn: [Jason (Son Thanh) Ngo](https://www.linkedin.com/in/jasonsonthanhngo/){:target="_blank"}
+- Email: [jasonsonthanhngo@gmail.com](mailto:jasonsonthanhngo@gmail.com){:target="_blank"}
 
 <!---
 jasonsonthanhngo/jasonsonthanhngo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
