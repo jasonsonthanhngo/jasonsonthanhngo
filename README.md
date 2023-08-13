@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jason.
-I'm a Software Engineer located in Orange County, CA.  
-Welcome to my GitHub profile, where you can find a mix of personal projects, open-source contributions, and a glimpse into my coding journey. 
+**I'm a Software Engineer located in Orange County, CA.**  
+**Welcome to my GitHub profile, where you can find a mix of personal projects, open-source contributions, and a glimpse into my coding journey.**
 
 ## 🔗 Portfolio Website
 
