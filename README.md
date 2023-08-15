@@ -21,6 +21,7 @@ I'm currently diving deep into:
 - **React:** Building dynamic user interfaces and interactive components.
 - **Tailwindcss:** Creating stylish and responsive designs
 - **Next.js:** Crafting server-rendered React applications with ease.
+- **TypeScript:** Enhancing code quality and developer experience with static typing.
 - **Node.js:** Exploring the backend realm with JavaScript.
 - **MongoDB:** Learning to manage and query data effectively.
 
