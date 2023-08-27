@@ -12,6 +12,7 @@ Explore more of my work on my <a href="https://jasonngo-portfolio.vercel.app/" >
 
 * [Threads App](https://github.com/jasonsonthanhngo/threads_app): A social media app project that showcases my understanding of NextJS, MongoDB, and Clerk.
 * [AI Image Generator App](https://github.com/jasonsonthanhngo/AI_Image_Generator): An AI Image Generator App built with MERN stack, OpenAI's API, cloudinary
+* [AI Companion App](https://github.com/jasonsonthanhngo/ai-companion): Synergizing Next.js and OpenAI for dynamic, persona-infused AI interactions.
 
 
 ## 🌱 My Learning Focus
